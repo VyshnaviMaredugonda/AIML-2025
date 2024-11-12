@@ -7,3 +7,4 @@ lab-4 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI_LinearRegres
 lab-7 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AIML_LAB_7.ipynb
 lab-8 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI%26ML_LAB_8.ipynb
 lab-9 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI%26ML_LAB_9.ipynb
+lab-10 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/lab_10.ipynb
