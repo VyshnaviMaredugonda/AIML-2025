@@ -5,4 +5,5 @@ lab-6 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/KNN
 lab-5 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/logistic%20Regression
 lab-4 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI_LinearRegression_Lab_4.ipynb
 lab-7 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AIML_LAB_7.ipynb
+lab-8 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI%26ML_LAB_8.ipynb
 lab-9 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI%26ML_LAB_9.ipynb
