@@ -8,3 +8,4 @@ lab-7 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AIML_LAB_7.ipyn
 lab-8 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI%26ML_LAB_8.ipynb
 lab-9 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/AI%26ML_LAB_9.ipynb
 lab-10 https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/lab_10.ipynb
+lab exam-https://github.com/VyshnaviMaredugonda/AIML-2025/blob/main/2303A54068_labexternal.ipynb
